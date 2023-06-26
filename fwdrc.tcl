@@ -38,7 +38,7 @@ if {[string compare -nocase -------- $clean1] == 0} {
 # delete false information
 } else {
 if {[string compare -nocase {htab_bl,} $clean1] ==0} {
-# delete fals information
+# delete false information
 } else {
 #puts $clean1
 
