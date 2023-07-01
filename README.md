@@ -10,6 +10,17 @@ github.com
 
   `./fwdrc.tcl`
 
+## Output:
+
+[Expert@checkpoint]# ./fwdrc.tcl
+
+Displaying the DNS Reverse Cache - Human Readable
+
+99.84.191.17
+99.84.191.55
+99.84.191.19
+99.84.191.23
+
 ### Extra Information:
 *The DNS reverse cache table is stored in the following format:*
 
